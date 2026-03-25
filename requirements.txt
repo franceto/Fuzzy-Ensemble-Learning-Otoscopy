@@ -1,0 +1,12 @@
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+timm
+torchmetrics
+albumentations
+scikit-learn
+matplotlib
+seaborn
+pandas
+numpy
+opencv-python
+ipykernel
+jupyter
