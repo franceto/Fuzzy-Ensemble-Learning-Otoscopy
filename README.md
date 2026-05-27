@@ -45,7 +45,6 @@ Dự án huấn luyện 6 backbone thị giác, sau đó kết hợp dự đoán
 
 </div>
 
-> Nếu repository chưa có ảnh `results/confusion_matrix.png`, hãy thay bằng ảnh kết quả thực tế đang có trong thư mục `results/`.
 
 ---
 
